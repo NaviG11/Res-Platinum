@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Res-Platinum</string>
+    <string name="author">NaviCode</string>
+    <string name="code">365</string>
+    <string name="orders">Pedidos</string>
+    <string name="total">Total a pagar</string>
+    <string name="plate">Plato</string>
+    <string name="prize">Precio</string>
+    <string name="totalPrize">Total a Pagar</string>
+    <string name="totalPedidos">Total de Pedidos</string>
+</resources>
